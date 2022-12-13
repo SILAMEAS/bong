@@ -1,0 +1,30 @@
+{
+  "name": "fastifyprisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "migrate": "npx prisma migrate dev --name init",
+    "start": "npx nodemon main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "prisma": "^4.7.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.7.1",
+    "@types/body-parser": "^1.19.2",
+    "body-parser": "^1.20.1",
+    "fastify": "^4.10.2",
+    "nodemon": "^2.0.20",
+    "tsc": "^2.0.4",
+    "tsc-init": "^2.1.0"
+  }
+}

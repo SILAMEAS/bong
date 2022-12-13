@@ -1,0 +1,1 @@
+{"version":3,"file":"PostModel.js","sourceRoot":"","sources":["../../../prisma/models/PostModel.ts"],"names":[],"mappings":";;;AAAA,yCAAoC;AACpC,2CAA2C;AAE3C,MAAa,SAAU,SAAQ,mBAAQ;IACnC,MAAM,CAAC,SAAS,GAAW,MAAM,CAAC;IAClC,MAAM,CAAC,KAAK,GAAG,IAAI,qBAAY,EAAE,CAAC,IAAI,CAAC;IACvC,iBAAiB;IACjB,sCAAsC;IACtC,IAAI;IACI,IAAI,GAAG,SAAS,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC;;AANxC,8BAOC"}
